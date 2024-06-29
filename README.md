@@ -1,4 +1,5 @@
 ###  Hi There 👋 , I'm Rokeya Akanda Sriti 
+![](https://komarev.com/ghpvc/?username=RokeyaAkanda)
 ---
 - 👀 I’m interested in Data Analytics and AI
 - 🌱 I’m currently learning Tableau, Power BI, Data Analysis and Prompt Design in Vertex AI
